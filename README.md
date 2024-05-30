@@ -1,2 +1,1 @@
-# 디지털 마케팅
-- 
+# Side project
